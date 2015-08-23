@@ -24,8 +24,6 @@ $breakpoints: (
     'desk-wide' '(min-width: #{$desktop-wide})'
 );
 
-$breakpoint-has-widths: ('palm', 'lap', 'portable', 'tab', 'desk', 'desk-wide');
-
 
 /**
  * Fonts
