@@ -24,6 +24,10 @@ $breakpoints: (
     'desk-wide' '(min-width: #{$desktop-wide})'
 );
 
+$breakpoint-has-widths: ('phone', 'tab', 'desk', 'desk-med', 'desk-wide');
+$breakpoint-has-push: ('phone', 'tab', 'desk', 'desk-med', 'desk-wide');
+$breakpoint-has-pull: ('phone', 'tab', 'desk', 'desk-med', 'desk-wide');
+
 
 /**
  * Fonts
